@@ -29,7 +29,7 @@ const router = new VueRouter({
 })
 
 Vue.use(Vuetify);
-//Vue.use(twilio_config);
+
 
 Vue.use(VueRouter);
 
