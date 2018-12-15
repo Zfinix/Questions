@@ -1,4 +1,4 @@
-# Questios
+# Questions
 
 > A Vue.js project
 
