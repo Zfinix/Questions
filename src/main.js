@@ -5,7 +5,7 @@ import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.css'
 import VueRouter from 'vue-router'// 
 import api from 'axios'
-//var twilio_config = require('./twilio-config.js')
+
 
 
 Vue.prototype.$api = api
