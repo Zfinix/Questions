@@ -30,7 +30,6 @@ const router = new VueRouter({
 
 Vue.use(Vuetify);
 
-
 Vue.use(VueRouter);
 
 new Vue({
